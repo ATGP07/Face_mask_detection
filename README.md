@@ -21,7 +21,7 @@ For every image following process is applied.
 
 ### Transfer Learning
  **InceptionV3**<br>
-     This model was applied with same wieghts as learned from imagenet dataset. Last 3 layers of inceptionV3 were removed and trainable  layers were inserted.<br>
+     This model was applied with same weights as learned from imagenet dataset and in the last trainable layers were inserted.<br>
      
    **Training of model** <br>
  Test Accuracy = 0.9320388436317444<br>
@@ -32,3 +32,7 @@ For every image following process is applied.
    **Training of model** <br>
  Test Accuracy = 0.9708737730979919<br>
  Test Loss = 0.07088583707809448<br>
+
+# Notes
+   1. Notebooks in the repository are made in google colab.<br>
+   2.All the models with increasing validation accuracy are available in the folder.
