@@ -10,7 +10,7 @@ The dataset used to train the face-mask detection model taken from [here](https:
 This dataset contains 1376 images belonging to the 2 classes.
 The classes are:
 - With mask(690)
-- Without mask(686)
+- Without mask(686)<br>
 You can have a glimpse look of data in Dataset folder.
 
 ## Workflow
