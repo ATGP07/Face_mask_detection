@@ -16,9 +16,9 @@ You can have a glimpse look of data in Dataset folder.
 ## Workflow
 ### Data Preprocessing
 For every image following process is applied.
-  1. Resizing all images into a common size to fir to neural network.
+  1. Resizing all images into a common size to pass into neural network.
   2. Applying normalization.
-  3. Appending images pixels to X(feauture vector) and giving them labels(y).
+  3. Appending images pixels to X(feature vector) and giving them labels(y).
   4. Shuffling X and Y.
 
 ### Transfer Learning
