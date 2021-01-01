@@ -1,6 +1,7 @@
 # Face_mask_detection
 
 This project is implemented in Python using Keras, Tensorflow and OpenCV.
+[Here](https://drive.google.com/drive/u/1/folders/1NnPrkV6WzrvxHMCxUAJYkJVtDCPyPeLI) is the drive link of the project 
 
 ## About the Data
 
