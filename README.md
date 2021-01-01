@@ -1,6 +1,6 @@
 # Face_mask_detection
 
-This project is implemented in Python using Keras, Tensorflow and OpenCV.
+This project is implemented in Python using Keras, Tensorflow and OpenCV.<br>
 [Here](https://drive.google.com/drive/u/1/folders/1NnPrkV6WzrvxHMCxUAJYkJVtDCPyPeLI) is the drive link of the project 
 
 ## About the Data
@@ -11,6 +11,7 @@ This dataset contains 1376 images belonging to the 2 classes.
 The classes are:
 - With mask(690)
 - Without mask(686)
+You can have a glimpse look of data in Dataset folder.
 
 ## Workflow
 ### Data Preprocessing
