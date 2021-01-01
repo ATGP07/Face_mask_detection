@@ -6,7 +6,7 @@ This project is implemented in Python using Keras, Tensorflow and OpenCV.
 
 The dataset used to train the face-mask detection model taken from [here](https://github.com/prajnasb/observations/tree/master/experiements/data)
 
-This dataset contains 1376 images belonging to the 2 classes. The classes are:
+This dataset contains 1376 images belonging to the 2 classes.
 The classes are:
 - With mask(690)
 - Without mask(686)
