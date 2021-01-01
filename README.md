@@ -24,7 +24,7 @@ For every image following process is applied.
      This model was applied with same weights as learned from imagenet dataset and in the last trainable layers were inserted.<br>
      
    **Training of model** <br>
-   ![alt text](https://github.com/ATGP07/Face_mask_detection/Images/blob/master/incep_accu.PNG)
+   ![alt text](https://github.com/ATGP07/Face_mask_detection/blob/master/incep_accu.PNG)
  Test Accuracy = 0.9320388436317444<br>
  Test Loss = 0.1794693022966385<br>
   
