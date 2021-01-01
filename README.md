@@ -6,10 +6,10 @@ This project is implemented in Python using Keras, Tensorflow and OpenCV.
 
 The dataset used to train the face-mask detection model taken from [here](https://github.com/prajnasb/observations/tree/master/experiements/data)
 
-This dataset contains 853 images belonging to the 2 classes. The classes are:
+This dataset contains 1376 images belonging to the 2 classes. The classes are:
 The classes are:
-- With mask
-- Without mask
+- With mask(690)
+- Without mask(686)
 
 ## Workflow
 ### Data Preprocessing
@@ -24,6 +24,7 @@ For every image following process is applied.
      This model was applied with same weights as learned from imagenet dataset and in the last trainable layers were inserted.<br>
      
    **Training of model** <br>
+   ![alt text](https://github.com/ATGP07/Face_mask_detection/Images/blob/master/incep_accu.PNG
  Test Accuracy = 0.9320388436317444<br>
  Test Loss = 0.1794693022966385<br>
   
