@@ -32,6 +32,8 @@ For every image following process is applied.
  ## Trying own model
  
    **Training of model** <br>
+   ![name-of-you-image](https://github.com/ATGP07/Face_mask_detection/blob/main/model_accu.png?raw=true)
+   ![name-of-you-image](https://github.com/ATGP07/Face_mask_detection/blob/main/model_loss.png)
  Test Accuracy = 0.9708737730979919<br>
  Test Loss = 0.07088583707809448<br>
 
